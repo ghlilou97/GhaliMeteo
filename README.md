@@ -7,8 +7,18 @@ Application mobile projet ESIEA #EL ALAMI EL GHALI
     CHOIX DE LA VILLE 
 ![alt text](https://github.com/ghlilou97/GhaliMeteo/blob/master/andr1.PNG)
     INFORMATION SUR L'APPLICATION
+    
+    
 ![alt text](https://github.com/ghlilou97/GhaliMeteo/blob/master/andr2.PNG)
+
+
      DEFILEMENT DE L'APPLICATION ( PAGE PRINCIPALE ) 
 ![alt text](https://github.com/ghlilou97/GhaliMeteo/blob/master/andr3.PNG)
+
+
 ![alt text](https://github.com/ghlilou97/GhaliMeteo/blob/master/andr4.PNG)
+
+
+
+
 ![alt text](https://github.com/ghlilou97/GhaliMeteo/blob/master/Screenshot_1575900194.png)
